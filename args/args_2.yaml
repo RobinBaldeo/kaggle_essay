@@ -18,3 +18,6 @@ pad_to_multiple_of: 8
 early_stopping_patience: 2
 warmup_steps: 500
 gradient_accumulation_steps: 8
+best_batch: 3
+best_model: "prl90777/"
+base_model: "electra_base_prod"

@@ -1,8 +1,8 @@
 seed: 0
 sentence_length: 5
 num_folds: 5
-max_length: 2000
-model_ckpt_berta: "google/gemma-2b"
+max_length: 512
+model_ckpt_berta: "FacebookAI/roberta-base"
 lbl:
   - 1
   - 2
@@ -18,3 +18,6 @@ pad_to_multiple_of: 8
 early_stopping_patience: 2
 warmup_steps: 500
 gradient_accumulation_steps: 8
+best_batch: 3
+best_model: "prl90777/"
+base_model: "roberta"
