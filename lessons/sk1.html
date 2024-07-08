@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sankey Diagram</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+    <style>
+        body {
+            position: relative;
+        }
+        .control {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: white;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .radio-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+        .radio-buttons label {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+    </style>
+</head>
+<body>
+    <fieldset class="control">
+        <legend>Select Organization:</legend>
+        <label for="cars">Choose Organization:</label>
+        <select name="cars" id="cars">
+            <option value="Audit">Volvo</option>
+        </select>
+        <div class="radio-buttons">
+            <fieldset>
+                <legend>Select Period:</legend>
+            <label for="1">
+                <input type="radio" id="1" name="filter" value="1" checked> week 1
+            </label>
+            <label for="2">
+                <input type="radio" id="2" name="filter" value="2"> week 2
+            </label>
+            <label for="3">
+                <input type="radio" id="3" name="filter" value="3"> week 3
+            </label>
+            <label for="4">
+                <input type="radio" id="4" name="filter" value="4"> week 4
+            </label>
+            <label for="5">
+                <input type="radio" id="5" name="filter" value="5"> week 5
+            </label>
+                </fieldset>
+        </div>
+    </fieldset>
+    <svg id="sankey" width="960" height="600"></svg>
+    <script src="sk1.js"></script>
+</body>
+</html>
