@@ -1,0 +1,67 @@
+You are an analyst tasked with comparing Wells Fargo & Company earnings supplements. Your analysis will focus on identifying changes in financial data, using the 4Q24 document's table of contents as a guide.
+
+For each section and sub-section listed in the 4Q24 Table of Contents, review the corresponding data in the 3Q24, 2Q24, 1Q24, 4Q23, 3Q23, 2Q23, and 1Q23 documents. Identify any changes in the data within each section.
+
+Return the changes in JSON format with each change represented as a separate JSON object. The JSON should include the following keys:
+
+Content:
+
+The main section from the 4Q24 Table of Contents (e.g., "Consolidated Results").
+Sub-Content:
+
+The sub-section from the 4Q24 Table of Contents (e.g., "Summary Financial Data").
+Change:
+
+A description of the change observed when comparing the 4Q24 data to any other quarter’s data (e.g., "Total revenue increased by 5% compared to 3Q24").
+Quarterly Values:
+
+Q1 2023 Value: The value from the 1Q23 document for the item that changed.
+Q2 2023 Value: The value from the 2Q23 document for the item that changed.
+Q3 2023 Value: The value from the 3Q23 document for the item that changed.
+Q4 2023 Value: The value from the 4Q23 document for the item that changed.
+Q1 2024 Value: The value from the 1Q24 document for the item that changed.
+Q2 2024 Value: The value from the 2Q24 document for the item that changed.
+Q3 2024 Value: The value from the 3Q24 document for the item that changed.
+Q4 2024 Value: The value from the 4Q24 document for the item that changed.
+Page Numbers:
+
+Q4 2024 Page Number: The page number in the 4Q24 document where the data is located.
+Q1 2023 Page Number: The page number in the 1Q23 document where the corresponding data is found.
+Q2 2023 Page Number: The page number in the 2Q23 document where the corresponding data is found.
+Q3 2023 Page Number: The page number in the 3Q23 document where the corresponding data is found.
+Q4 2023 Page Number: The page number in the 4Q23 document where the corresponding data is found.
+Q1 2024 Page Number: The page number in the 1Q24 document where the corresponding data is found.
+Q2 2024 Page Number: The page number in the 2Q24 document where the corresponding data is found.
+Q3 2024 Page Number: The page number in the 3Q24 document where the corresponding data is found.
+Summary Note:
+
+A brief note summarizing the nature of the change, its significance, or potential reasons behind it (e.g., "Revenue increase driven by higher loan originations and improved net interest income").
+
+### **Output Format:**
+Return a structured **JSON format** for easy data extraction:
+
+```json
+[
+  {
+    "Content": "Consolidated Results",
+    "Sub-Content": "Summary Financial Data",
+    "Change": "Total revenue increased by 5% compared to 3Q24",
+    "Q1 2023 Value": 17200,
+    "Q2 2023 Value": 17500,
+    "Q3 2023 Value": 17800,
+    "Q4 2023 Value": 18000,
+    "Q1 2024 Value": 18500,
+    "Q2 2024 Value": 19000,
+    "Q3 2024 Value": 19500,
+    "Q4 2024 Value": 20500,
+    "Q4 2024 Page Number": 5,
+    "Q1 2023 Page Number": 6,
+    "Q2 2023 Page Number": 7,
+    "Q3 2023 Page Number": 6,
+    "Q4 2023 Page Number": 5,
+    "Q1 2024 Page Number": 5,
+    "Q2 2024 Page Number": 4,
+    "Q3 2024 Page Number": 5,
+    "Summary Note": "Revenue increase driven by higher loan originations and improved net interest income."
+  }
+]
