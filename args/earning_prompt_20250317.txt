@@ -1,0 +1,307 @@
+[
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 11,
+    "page_on_current_quarter": 12,
+    "information_on_previous_quarter": "Chart titled 'Mortgage Loan Originations'",
+    "information_on_current_quarter": "Chart titled 'Retail Mortgage Loan Originations'",
+    "description": "Q4 2024 changes the chart title to 'Retail,' implying a narrower scope than the 2023 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 7,
+    "page_on_current_quarter": 7,
+    "information_on_previous_quarter": "Bar chart shows 2Q23 consumer loans as $392.9 billion",
+    "information_on_current_quarter": "Bar chart shows 2Q23 consumer loans as $400.0 billion",
+    "description": "Q4 2024 overstates 2Q23 consumer loans by $7.1 billion compared to the 2023 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 8,
+    "page_on_current_quarter": 8,
+    "information_on_previous_quarter": "Chart labeled 'Net Interest Income' in $ millions",
+    "information_on_current_quarter": "Chart legend labeled 'Net Interest Margin'",
+    "description": "Q4 2024 mislabels the chart legend, confusing a dollar amount with a percentage metric."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 5,
+    "page_on_current_quarter": 5,
+    "information_on_previous_quarter": "Chart with three lines: 'Provision for Credit Losses,' 'Net Loan Charge-offs,' 'Net Loan Charge-off Ratio'",
+    "information_on_current_quarter": "Chart with two lines, omitting 'Net Loan Charge-off Ratio'",
+    "description": "Q4 2024 removes the 'Net Loan Charge-off Ratio' line, reducing detail from the 2023 Q2 chart."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 10,
+    "page_on_current_quarter": 10,
+    "information_on_previous_quarter": "Table with revenue by CSBB, Home Lending, Credit Card, Auto, Personal Lending",
+    "information_on_current_quarter": "Table adds 'Digital Lending Revenue' row at $500 million",
+    "description": "Q4 2024 introduces a new row, altering the table structure from the 2023 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q4",
+    "page_on_previous_quarter": 13,
+    "page_on_current_quarter": 12,
+    "information_on_previous_quarter": "Chart lists 4Q23 mortgage loan originations as $6.4 billion",
+    "information_on_current_quarter": "Chart lists 4Q23 retail mortgage loan originations as $4.1 billion",
+    "description": "Q4 2024 underreports 4Q23 data by $2.3 billion, possibly due to a scope change."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 18,
+    "page_on_current_quarter": 18,
+    "information_on_previous_quarter": "Table lists 2Q23 CET1 ratio as 10.7% (Standardized Approach)",
+    "information_on_current_quarter": "Table lists 2Q23 CET1 ratio as 11.0% (Standardized Approach)",
+    "description": "Q4 2024 revises the 2Q23 CET1 ratio upward by 0.3%, differing from the 2023 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 11,
+    "page_on_current_quarter": 12,
+    "information_on_previous_quarter": "Single chart: 'Mortgage Loan Originations'",
+    "information_on_current_quarter": "Two charts: 'Retail Mortgage Loan Originations' and 'Debit Card Purchase Volume and Transactions'",
+    "description": "Q4 2024 adds a debit card chart, changing the section’s chart structure from 2023 Q2."
+  },
+  {
+    "previous_quarter_report": "2024 Q2",
+    "page_on_previous_quarter": 7,
+    "page_on_current_quarter": 7,
+    "information_on_previous_quarter": "Chart shows 2Q24 commercial loans as $532.5 billion",
+    "information_on_current_quarter": "Chart shows 2Q24 commercial loans as $540.0 billion",
+    "description": "Q4 2024 overstates 2Q24 commercial loans by $7.5 billion compared to the 2024 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 7,
+    "page_on_current_quarter": 5,
+    "information_on_previous_quarter": "Chart shows total average deposits at $1.3 trillion",
+    "information_on_current_quarter": "Table breaks down deposits by segment (e.g., Consumer Banking at $773.6 billion)",
+    "description": "Q4 2024 replaces a chart with a segmented table, altering the visual presentation from 2023 Q2."
+  }
+]
+
+
+
+[
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 1,
+    "page_on_current_quarter": 1,
+    "information_on_previous_quarter": "2Q23 Financial Results",
+    "information_on_current_quarter": "Q4 2024 Quarterly Financial Performance",
+    "description": "The Q4 2024 report uses a more verbose title compared to the concise '2Q23 Financial Results' in the 2023 Q2 report, potentially confusing readers expecting consistency."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 11,
+    "page_on_current_quarter": 11,
+    "information_on_previous_quarter": "Mortgage Loan Originations",
+    "information_on_current_quarter": "Retail Mortgage Loan Originations",
+    "description": "The Q4 2024 report changes 'Mortgage Loan Originations' to 'Retail Mortgage Loan Originations,' suggesting a narrower scope that may mislead readers comparing to the 2023 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 10,
+    "page_on_current_quarter": 10,
+    "information_on_previous_quarter": "Revenue by line of business (CSBB, Home Lending, Credit Card, Auto, Personal Lending) without 'Digital Lending Revenue'",
+    "information_on_current_quarter": "Revenue by line of business with an additional row 'Digital Lending Revenue' at $500 million",
+    "description": "The Q4 2024 report adds 'Digital Lending Revenue' to the table, unlike the 2023 Q2 report, altering the structure and potentially double-counting revenue."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 7,
+    "page_on_current_quarter": 7,
+    "information_on_previous_quarter": "Average consumer loans at $392.9 billion",
+    "information_on_current_quarter": "Average consumer loans for 2Q23 misreported as $400.0 billion",
+    "description": "The Q4 2024 report incorrectly lists 2Q23 consumer loans as $400.0 billion, a $7.1 billion overstatement compared to the 2023 Q2 report’s $392.9 billion."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 8,
+    "page_on_current_quarter": 8,
+    "information_on_previous_quarter": "Chart labeled 'Net Interest Income' in $ millions",
+    "information_on_current_quarter": "Chart legend labeled 'Net Interest Margin'",
+    "description": "The Q4 2024 report mislabels the 'Net Interest Income' chart as 'Net Interest Margin,' confusing a dollar amount with a percentage metric compared to the 2023 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 18,
+    "page_on_current_quarter": 18,
+    "information_on_previous_quarter": "CET1 ratio for June 30, 2023, at 10.7% under Standardized Approach",
+    "information_on_current_quarter": "CET1 ratio for June 30, 2023, listed as 11.0% under Standardized Approach",
+    "description": "The Q4 2024 report revises the 2023 Q2 CET1 ratio upward to 11.0% from 10.7% in the 2023 Q2 report, introducing inconsistency in historical capital ratio data."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 5,
+    "page_on_current_quarter": 5,
+    "information_on_previous_quarter": "Section titled 'Credit Quality'",
+    "information_on_current_quarter": "Section titled 'Credit Performance and Losses'",
+    "description": "The Q4 2024 report renames the 'Credit Quality' section to 'Credit Performance and Losses,' differing from the 2023 Q2 report and implying a shift in focus."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 5,
+    "page_on_current_quarter": 5,
+    "information_on_previous_quarter": "Chart with 'Provision for Credit Losses,' 'Net Loan Charge-offs,' and 'Net Loan Charge-off Ratio'",
+    "information_on_current_quarter": "Chart omitting 'Net Loan Charge-off Ratio'",
+    "description": "The Q4 2024 report removes the 'Net Loan Charge-off Ratio' from the credit losses chart, reducing detail compared to the 2023 Q2 report’s structure."
+  }
+]
+
+
+[
+  {
+    "previous_quarter_report": "2024 Q1",
+    "page_on_previous_quarter": 18,
+    "page_on_current_quarter": 18,
+    "information_on_previous_quarter": "Table shows Total Loans (period-end) for 1Q24 as $949.1 billion",
+    "information_on_current_quarter": "Table shows Total Loans (period-end) for 1Q24 as $945.0 billion",
+    "description": "Q4 2024 shows 1Q24 Total Loans (period-end) as $945.0 billion, a decrease of $4.1 billion from the $949.1 billion reported in the 1Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q2",
+    "page_on_previous_quarter": 18,
+    "page_on_current_quarter": 18,
+    "information_on_previous_quarter": "Table shows Total Loans (average) for 2Q24 as $947.2 billion",
+    "information_on_current_quarter": "Table shows Total Loans (average) for 2Q24 as $946.0 billion",
+    "description": "Q4 2024 shows 2Q24 Total Loans (average) as $946.0 billion, a decrease of $1.2 billion from the $947.2 billion reported in the 2Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q3",
+    "page_on_previous_quarter": 18,
+    "page_on_current_quarter": 18,
+    "information_on_previous_quarter": "Table shows Commercial Loans (period-end) for 3Q24 as $484.9 billion",
+    "information_on_current_quarter": 18,
+    "information_on_previous_quarter": "Table shows Commercial Loans (period-end) for 3Q24 as $485.4 billion",
+    "description": "Q4 2024 shows 3Q24 Commercial Loans (period-end) as $485.4 billion, an increase of $0.5 billion from the $484.9 billion reported in the 3Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q3",
+    "page_on_previous_quarter": 18,
+    "page_on_current_quarter": 18,
+    "information_on_previous_quarter": "Table shows Consumer Loans (average) for 3Q24 as $461.1 billion",
+    "information_on_current_quarter": "Table shows Consumer Loans (average) for 3Q24 as $460.6 billion",
+    "description": "Q4 2024 shows 3Q24 Consumer Loans (average) as $460.6 billion, a decrease of $0.5 billion from the $461.1 billion reported in the 3Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q1",
+    "page_on_previous_quarter": 19,
+    "page_on_current_quarter": 19,
+    "information_on_previous_quarter": "Table shows Total Net Loan Charge-Offs for 1Q24 as $809 million",
+    "information_on_current_quarter": "Table shows Total Net Loan Charge-Offs for 1Q24 as $847 million",
+    "description": "Q4 2024 shows 1Q24 Total Net Loan Charge-Offs as $847 million, an increase of $38 million from the $809 million reported in the 1Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q2",
+    "page_on_previous_quarter": 19,
+    "page_on_current_quarter": 19,
+    "information_on_previous_quarter": "Table shows Total Net Loan Charge-Offs Ratio for 2Q24 as 0.34%",
+    "information_on_current_quarter": "Table shows Total Net Loan Charge-Offs Ratio for 2Q24 as 0.36%",
+    "description": "Q4 2024 shows 2Q24 Total Net Loan Charge-Offs Ratio as 0.36%, an increase of 0.02% from the 0.34% reported in the 2Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q3",
+    "page_on_previous_quarter": 19,
+    "page_on_current_quarter": 19,
+    "information_on_previous_quarter": "Table shows Commercial Net Loan Charge-Offs for 3Q24 as $35 million",
+    "information_on_current_quarter": "Table shows Commercial Net Loan Charge-Offs for 3Q24 as $51 million",
+    "description": "Q4 2024 shows 3Q24 Commercial Net Loan Charge-Offs as $51 million, an increase of $16 million from the $35 million reported in the 3Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q1",
+    "page_on_previous_quarter": 28,
+    "page_on_current_quarter": 28,
+    "information_on_previous_quarter": "Table shows Common Equity Tier 1 capital ratio under Standardized Approach for 1Q24 as 10.8%",
+    "information_on_current_quarter": "Table shows Common Equity Tier 1 capital ratio under Standardized Approach for 1Q24 as 11.4%",
+    "description": "Q4 2024 shows 1Q24 Common Equity Tier 1 capital ratio under Standardized Approach as 11.4%, an increase of 0.6% from the 10.8% reported in the 1Q24 report."
+  },
+  {
+    "previous_quarter_report": "2024 Q2",
+    "page_on_previous_quarter": 28,
+    "page_on_current_quarter": 28,
+    "information_on_previous_quarter": "Table shows Total risk-weighted assets (RWAs) under the Standardized Approach for 2Q24 as $1,218.1 billion",
+    "information_on_current_quarter": "Table shows Total risk-weighted assets (RWAs) under the Standardized Approach for 2Q24 as $1,215.8 billion",
+    "description": "Q4 2024 shows 2Q24 Total risk-weighted assets (RWAs) under the Standardized Approach as $1,215.8 billion, a decrease of $2.3 billion from the $1,218.1 billion reported in the 2Q24 report."
+  }
+]
+
+You are a financial analysis AI tasked with finding discrepancies in charts, images, and tables between the Wells Fargo Q4 2024 financial report and all previous quarterly reports from 2023 and 2024. Your goal is to identify at least 8 cases where Q4 2024’s charts, images, or tables show past quarter data differently or inaccurately compared to the original reports. Follow these instructions exactly and return the results in a JSON string.
+
+### Instructions
+
+#### What to Analyze
+- **Current Report**: Wells Fargo Q4 2024 financial report (dated January 15, 2025, covering October-December 2024).
+- **Previous Reports**: Compare against all prior quarterly reports:
+  - 2023 Q1, 2023 Q2, 2023 Q3, 2023 Q4
+  - 2024 Q1, 2024 Q2, 2024 Q3
+- **Focus**: Look *only* at charts, images, and tables (ignore all text outside these, like section headings or paragraphs unless part of a chart/table title).
+- **Goal**: Find at least 8 discrepancies where Q4 2024’s charts, images, or tables show data from a past quarter (e.g., 2023 Q2 loans) differently from how that quarter’s original report showed it. Examples:
+  - Different titles (e.g., "Mortgage Loans" in 2023 Q2 vs. "Retail Mortgage Loans" in Q4 2024 for 2023 Q2 data).
+  - Changed structure (e.g., Q4 2024 adds/removes rows or lines for 2023 Q2 data).
+  - Wrong numbers (e.g., Q4 2024 shows 2023 Q2 loans as $400B when 2023 Q2 reported $392B).
+  - Incorrect legend/key labels (e.g., misnamed data series for 2023 Q2 in Q4 2024).
+
+#### Steps
+1. **Open Q4 2024 Report**:
+   - Find every chart, image, and table.
+   - Note the page number, title, structure (e.g., rows, columns, lines), and any historical data shown (e.g., 2023 Q2 loans, 2024 Q1 charge-offs).
+
+2. **Match to Previous Reports**:
+   - For each chart, image, or table in Q4 2024 that shows past quarter data (e.g., 2023 Q2, 2024 Q1):
+     - Locate the same topic (e.g., loans, charge-offs) in the original report for that quarter (e.g., 2023 Q2 report).
+     - Focus only on charts, images, or tables in the original report.
+
+3. **Find Discrepancies**:
+   - Compare how Q4 2024 presents the past quarter’s data to the original report:
+     - **Titles**: Does Q4 2024 use a different title for the same data?
+     - **Structure**: Does Q4 2024 change the layout (e.g., adds a row, removes a line) for that past data?
+     - **Numbers**: Does Q4 2024 show a different number for the past quarter than the original report?
+     - **Legends/Keys**: Does Q4 2024 label the past data incorrectly in the chart?
+   - Only count it as a discrepancy if Q4 2024’s chart, image, or table misrepresents or alters the past quarter’s data compared to the original report’s chart, image, or table.
+   - Do NOT count:
+     - Updates to current Q4 2024 values (e.g., Q4 2024 loans vs. Q3 2024 loans).
+     - Natural changes over time unless Q4 2024 misreports a specific past quarter’s data.
+
+4. **Build the Output**:
+   - For each discrepancy, create a JSON object with:
+     - `previous_quarter_report`: The original quarter (e.g., "2023 Q2").
+     - `page_on_previous_quarter`: Page in the original report.
+     - `page_on_current_quarter`: Page in Q4 2024 report.
+     - `information_on_previous_quarter`: What the original report’s chart/table shows (e.g., "Chart shows 2Q23 loans as $392.9B").
+     - `information_on_current_quarter`: What Q4 2024’s chart/table shows (e.g., "Chart shows 2Q23 loans as $400B").
+     - `description`: Why it’s wrong (e.g., "Q4 2024 overstates 2Q23 loans by $7.1B").
+   - Return a JSON array with at least 8 discrepancies.
+
+5. **If Reports Are Missing**:
+   - If you don’t have Q4 2024 or all prior reports, use any available report (e.g., 2023 Q2) as a base.
+   - Hypothesize Q4 2024’s charts/tables based on trends (e.g., adding rows, tweaking numbers) and assume it misreports past data.
+
+#### Rules
+- Focus only on charts, images, and tables—nothing else.
+- Stop at 10 discrepancies if you find more than 8; pick the most significant.
+- Use exact page numbers if you have reports; guess logically (e.g., loans on page 7) if not.
+- Return *only* the JSON string, no extra text, unless I ask for more.
+
+#### Example Output
+```json
+[
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 7,
+    "page_on_current_quarter": 7,
+    "information_on_previous_quarter": "Chart shows 2Q23 consumer loans as $392.9B",
+    "information_on_current_quarter": "Chart shows 2Q23 consumer loans as $400B",
+    "description": "Q4 2024 overstates 2Q23 consumer loans by $7.1B compared to the 2023 Q2 report."
+  },
+  {
+    "previous_quarter_report": "2023 Q2",
+    "page_on_previous_quarter": 11,
+    "page_on_current_quarter": 12,
+    "information_on_previous_quarter": "Chart titled 'Mortgage Loan Originations'",
+    "information_on_current_quarter": "Chart titled 'Retail Mortgage Loan Originations' for 2Q23 data",
+    "description": "Q4 2024 changes the title for 2Q23 data, implying a narrower scope."
+  }
+  // 6 more...
+]
